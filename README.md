@@ -2,19 +2,32 @@
 ## Hi there 👋
 ### Hi there 👋
 
-Esta es una pagia de prueba 
+***Esta*** es una *pagina* ~~de~~ **prueba** `git status`
 
-<!--
-**Jaime-Q/Jaime-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+public class Hola{
+  public Hola(){
+  
+  }
+}
+```
+| Leguanje | Nivel | Uso   |
+|----------|-------|-------|
+| Java     |Alto   |Backend|
+| Java     |Alto   |Backend|
 
-Here are some ideas to get you started:
+- [ ] Implementacion
+- [ ] Diseño
+- [X] Pruebas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Item
+- Item 1
+- Item 2
+
+<p align="center"> Texto </p>
+
+![Colors](https://studio.pinotspalette.com/southhill/images/southihill-color22.jpg)
+
+[Ver video](https://www.youtube.com/watch?v=7N-wDxe18PA)
+
+![[Ver Video](https://studio.pinotspalette.com/southhill/images/southihill-color22.jpg)](https://www.youtube.com/watch?v=7N-wDxe18PA)
